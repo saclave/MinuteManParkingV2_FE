@@ -2,8 +2,6 @@ sudo: true
 language: node_js
 node_js:
 - node
-install:
-  - yarn
 git:
   quiet: true
 deploy:
